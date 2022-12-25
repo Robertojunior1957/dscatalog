@@ -1,0 +1,5 @@
+package com.livink.dscatalog.entities;
+
+public class Category {
+
+}

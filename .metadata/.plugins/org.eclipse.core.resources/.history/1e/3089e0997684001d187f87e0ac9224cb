@@ -1,0 +1,5 @@
+package com.livink.dscatalog.services;
+
+public class CategoryService {
+
+}
