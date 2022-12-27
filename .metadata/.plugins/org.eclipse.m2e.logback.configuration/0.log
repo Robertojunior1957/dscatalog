@@ -119,3 +119,92 @@
 2022-12-25 14:23:49,980 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
 2022-12-25 14:23:49,996 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2022-12-25 14:23:49,999 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /ws-bootcamp/dscatalog/backend/src/test/resources
+2022-12-25 17:32:37,281 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-12-26 14:09:19,748 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-12-26 15:34:24,922 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-26 15:34:25,008 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-26 15:34:25,023 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /ws-bootcamp/dscatalog/backend/src/test/resources
+2022-12-26 15:36:46,212 [Worker-18: Launching backend - DscatalogApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-26 15:36:46,256 [Worker-18: Launching backend - DscatalogApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-26 15:36:46,274 [Worker-18: Launching backend - DscatalogApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /ws-bootcamp/dscatalog/backend/src/test/resources
+2022-12-26 15:44:06,952 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-26 15:44:06,971 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-26 15:44:06,989 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /ws-bootcamp/dscatalog/backend/src/test/resources
+2022-12-26 15:45:28,729 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-26 15:45:28,740 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-26 15:45:28,753 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /ws-bootcamp/dscatalog/backend/src/test/resources
+2022-12-26 15:46:33,494 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-26 15:46:33,503 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-26 15:46:33,507 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /ws-bootcamp/dscatalog/backend/src/test/resources
+2022-12-26 15:48:05,451 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-26 15:48:05,458 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-26 15:48:05,462 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /ws-bootcamp/dscatalog/backend/src/test/resources
+2022-12-26 15:48:06,534 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-26 15:48:06,535 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-26 15:48:06,540 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /ws-bootcamp/dscatalog/backend/src/test/resources
+2022-12-26 15:55:40,851 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-26 15:55:40,860 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-26 15:55:40,874 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /ws-bootcamp/dscatalog/backend/src/test/resources
+2022-12-26 15:56:55,848 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-26 15:56:55,856 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-26 15:56:55,871 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /ws-bootcamp/dscatalog/backend/src/test/resources
+2022-12-26 15:59:22,401 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-26 15:59:22,421 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-26 15:59:22,424 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /ws-bootcamp/dscatalog/backend/src/test/resources
+2022-12-26 16:01:00,633 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-26 16:01:00,641 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-26 16:01:00,645 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /ws-bootcamp/dscatalog/backend/src/test/resources
+2022-12-26 16:01:04,009 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-26 16:01:04,032 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-26 16:01:04,036 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /ws-bootcamp/dscatalog/backend/src/test/resources
+2022-12-26 16:01:14,297 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-26 16:01:14,308 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-26 16:01:14,312 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /ws-bootcamp/dscatalog/backend/src/test/resources
+2022-12-26 16:02:44,598 [Worker-26: Launching backend - DscatalogApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-26 16:02:44,613 [Worker-26: Launching backend - DscatalogApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-26 16:02:44,617 [Worker-26: Launching backend - DscatalogApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /ws-bootcamp/dscatalog/backend/src/test/resources
+2022-12-26 20:25:20,779 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-26 20:25:20,799 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-26 20:25:20,803 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /ws-bootcamp/dscatalog/backend/src/test/resources
+2022-12-26 20:29:40,804 [Worker-32: Launching backend - DscatalogApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-26 20:29:40,811 [Worker-32: Launching backend - DscatalogApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-26 20:29:40,826 [Worker-32: Launching backend - DscatalogApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /ws-bootcamp/dscatalog/backend/src/test/resources
+2022-12-26 20:33:14,888 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-26 20:33:14,924 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-26 20:33:14,927 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /ws-bootcamp/dscatalog/backend/src/test/resources
+2022-12-26 20:35:05,030 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-26 20:35:05,048 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-26 20:35:05,061 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /ws-bootcamp/dscatalog/backend/src/test/resources
+2022-12-26 20:36:25,571 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-26 20:36:25,582 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-26 20:36:25,586 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /ws-bootcamp/dscatalog/backend/src/test/resources
+2022-12-26 20:40:51,533 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-26 20:40:51,566 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-26 20:40:51,583 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /ws-bootcamp/dscatalog/backend/src/test/resources
+2022-12-26 20:45:37,827 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-26 20:45:37,836 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-26 20:45:37,843 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /ws-bootcamp/dscatalog/backend/src/test/resources
+2022-12-26 20:45:57,164 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-26 20:45:57,214 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-26 20:45:57,224 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /ws-bootcamp/dscatalog/backend/src/test/resources
+2022-12-26 20:45:58,338 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-26 20:45:58,344 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-26 20:45:58,347 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /ws-bootcamp/dscatalog/backend/src/test/resources
+2022-12-26 20:46:00,380 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-26 20:46:00,389 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-26 20:46:00,392 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /ws-bootcamp/dscatalog/backend/src/test/resources
+2022-12-26 20:54:33,599 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-26 20:54:33,607 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-26 20:54:33,627 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /ws-bootcamp/dscatalog/backend/src/test/resources
+2022-12-26 20:55:39,331 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-26 20:55:39,339 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-26 20:55:39,344 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /ws-bootcamp/dscatalog/backend/src/test/resources
+2022-12-26 20:56:47,074 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-26 20:56:47,081 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-26 20:56:47,085 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /ws-bootcamp/dscatalog/backend/src/test/resources
+2022-12-26 20:57:21,674 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-26 20:57:21,681 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-26 20:57:21,684 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /ws-bootcamp/dscatalog/backend/src/test/resources
+2022-12-26 21:09:56,744 [Worker-46: Launching backend - DscatalogApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2022-12-26 21:09:56,759 [Worker-46: Launching backend - DscatalogApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-26 21:09:56,772 [Worker-46: Launching backend - DscatalogApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /ws-bootcamp/dscatalog/backend/src/test/resources

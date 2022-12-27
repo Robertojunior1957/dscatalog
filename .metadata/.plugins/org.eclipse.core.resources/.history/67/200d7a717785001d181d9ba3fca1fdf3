@@ -1,0 +1,5 @@
+package com.livink.dscatalog.resources.exceptions;
+
+public class ResourceExceptionHendler {
+
+}
